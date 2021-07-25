@@ -1,0 +1,10 @@
+row {
+    padding: 10px;
+}
+
+list>row{
+    padding: 0px;
+    margin: 10px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px #cccccc;
+}

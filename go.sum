@@ -1,0 +1,6 @@
+github.com/gotk3/gotk3 v0.6.1 h1:GJ400a0ecEEWrzjBvzBzH+pB/esEMIGdB9zPSmBdoeo=
+github.com/gotk3/gotk3 v0.6.1/go.mod h1:/hqFpkNa9T3JgNAE2fLvCdov7c5bw//FHNZrZ3Uv9/Q=
+github.com/jianfengye/collection v1.3.2 h1:3aGq/v2i9FZURFG4MJJTzxiqvLef/cL1c2dO+HzLpJQ=
+github.com/jianfengye/collection v1.3.2/go.mod h1:Oi7o4E0BF3Z8K8ql/Aa/O10/4ooirgGw+8JLQe+O3lQ=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
